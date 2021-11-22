@@ -1,0 +1,41 @@
+[{
+		"id": 1,
+		"StudentID": 1,
+		"StudentName": "Jenny Chan",
+		"StudentBirthday": "3 waterfoot road",
+		"StudentYear": "333-962-7516"
+
+	},
+	{
+		"id": 2,
+		"StudentID": 2,
+		"StudentName": "Jessica warren",
+		"StudentBirthday": "4 tall town",
+		"StudentYear": "12"
+
+	},
+	{
+		"id": 3,
+		"StudentID": 3,
+		"StudentName": "Tony Frank",
+		"StudentBirthday": "11 lesly road",
+		"StudentYear": "16"
+
+	},
+	{
+		"id": 4,
+		"StudentID": 4,
+		"StudentName": "Jeremy Clark",
+		"StudentBirthday": "333 miltown manor",
+		"StudentYear": "42"
+
+	},
+	{
+		"id": 5,
+		"StudentID": 5,
+		"StudentName": "Raymond Edwards",
+		"StudentBirthday": "99 blue acres",
+		"StudentYear": "22"
+
+	}
+]
